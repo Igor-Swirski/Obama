@@ -1,0 +1,111 @@
+#banner {
+    border-radius: 15px;
+    align-self: center;
+    margin: auto;
+    width: 1000px;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    display: block;
+}
+#footer {
+    width: 100%; 
+    text-align: center;
+    background-color: #80ffee;
+    padding: 5px;
+}
+.center {
+    border-radius: 15px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+body{
+    font-family: verdana;
+}
+.main {
+    align-self: center;
+    margin: auto;
+    width: 1200px;
+    display: block;
+    font-size: 18px;
+}
+h2 {
+    text-align: center;
+}
+.spis {
+    text-align: left;
+    border-radius: 15px;
+    width: 400px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}    
+#WMR {
+    text-align: center;
+}
+#PCO {
+    text-align: center;
+}
+#K {
+    text-align: center;
+}
+#CI {
+    text-align: center;
+}
+#TD {
+    text-align: center;
+}
+#P {
+    text-align: center;
+}
+#MP {
+    text-align: center;
+}
+.zoom {
+    transition: transform .2s;
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.05);
+  }
+  .info {
+    border-radius: 15px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding: 20px;
+  }
+hr {
+    height: 8px;
+    background-color: #80ffee;
+    width: 100%;
+}
+#powrot {
+    padding: 10px;
+    text-align: center;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+table {
+    border: 1px;
+    text-align: center;
+    border-style: solid;
+    width: 1000px;
+}
+
+.img2 {
+    width: 200px;
+    height: 150px;
+}
+.centertable {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
